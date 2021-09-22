@@ -40,7 +40,7 @@ Suppose Alice decides to send Bob a message saying:  "Hello Bob". What she needs
 3. transmit a series of transactions with the amounts being the numbers above ( This is done serially - one transaction per block).
 
 
-----------------------------------------------------------------------Recipient---------------------------------------------------
+---------------------------------------------------------------------Recipient---------------------------------------------------
 
 Bob decides to check whether he got a message from Alice, What he has to do is this:
 
@@ -52,7 +52,7 @@ Bob decides to check whether he got a message from Alice, What he has to do is t
 
 4.  Print the decoded message in the console along with a timestamp.
 
-----------------------------------------------------------------------Sparrow-messenger-------------------------------------------
+-----------------------------------------------------------------Sparrow-messenger-------------------------------------------
 
 Sparrow in its current itteration helps to automate:
 
