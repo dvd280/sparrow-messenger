@@ -10,7 +10,7 @@ This project relies on a basic premise: for computer systems everything is a num
 - Each of them creates a secondary Monero address, and shares it only with the other.
 
 
-----------------------------------------------------------------------Sender------------------------------------------------------------------------
+----------------------------------------------------------------------Sender-----------------------------------------------------
 
 Suppose Alice decides to send Bob a message saying:  "Hello Bob". What she needs to do is:
 
@@ -40,7 +40,7 @@ Suppose Alice decides to send Bob a message saying:  "Hello Bob". What she needs
 3. transmit a series of transactions with the amounts being the numbers above ( This is done serially - one transaction per block).
 
 
-----------------------------------------------------------------------Recipient----------------------------------------------------------------------
+----------------------------------------------------------------------Recipient---------------------------------------------------
 
 Bob decides to check whether he got a message from Alice, What he has to do is this:
 
