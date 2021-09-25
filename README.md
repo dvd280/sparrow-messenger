@@ -78,9 +78,9 @@ To send a message with sparrow, navigate to the sparrow.exe directory and Use th
 
 Where:
 
-        < action >  = "send" or "recieve"
-        < address > = Adress to which the user wishes to send, or adress to which the user expects to recieve a message.
-        < message > = The message which the user wishes to send ( only relevant when < action > = "send")
+`<action>`  = `"send"` or `"recieve"`
+`<address>` = A monero sub-address to which the user wishes to send, or to which the user expects to recieve a message.
+`<message>` = The message which the user wishes to send (only relevant when `<action>` = `"send"`)
         
 As a sender, the process will create and save a file named "EncodedTxs.txt" in the same directory as the sparrow executable. The file will include the list of transaction commands that the user will need to transmit to the network by copy-pasting the commands into the cli wallet one by one (one per block), in decending order.
 
