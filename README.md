@@ -67,7 +67,7 @@ To send a message with sparrow, navigate to the sparrow.exe directory and use th
 Where:
 
         < action >  = "send" or "recieve"
-        < address > = Adress to which the user wishes to send, or Adress to which the user expects to recieve a message.
+        < address > = Adress to which the user wishes to send, or adress to which the user expects to recieve a message.
         < message > = The message which the user wishes to send ( only relevant when < action > = "send")
 
 
