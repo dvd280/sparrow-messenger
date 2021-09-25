@@ -66,7 +66,7 @@ Bob decides to check whether he got a message from Alice, What he has to do is t
 
 ----------------------------------------------------------------Compiling----------------------------------------------------
 
-Sparrow is a very small module - approximately 100 lines of just standard C++, Which means that it is possible to compile it for any platform by just coppying main.cpp and the Helpers.h header into the same folder and compiling with any C++ compiler. 
+Sparrow is a very small module - less than 200 lines of just standard C++, Which makes it possible to compile it for any platform by just coppying main.cpp and the Helpers.h header into the same folder. Compilation is possible with any C++ compiler. 
 
 -----------------------------------------------------------------Usage-----------------------------------------------------------
 
