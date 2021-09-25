@@ -60,7 +60,7 @@ Bob decides to check whether he got a message from Alice, What he has to do is t
 - Steps 2, 3 and 4 for the Recipient.
 
 
-**B.  Sparrow in its current form does not interact directly with any Monero processes.
+**B.  Sparrow in its current form does not interact directly with any Monero processes.**
 
 **C.  Users will never be asked to enter any passwords or seeds - all sensitive parts are carried out by the user** 
 
