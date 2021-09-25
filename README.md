@@ -54,15 +54,15 @@ Bob decides to check whether he got a message from Alice, What he has to do is t
 
 -----------------------------------------------------------------Sparrow-messenger-------------------------------------------
 
-**Sparrow in its current itteration helps to automate:**
+**A.  Sparrow in its current itteration helps to automate:**
 
 - Steps 1 and 2 for the sender.
 - Steps 2, 3 and 4 for the Recipient.
 
 
-**Sparrow in its current form does not interact directly with any Monero processes.** 
+**B.  Sparrow in its current form does not interact directly with any Monero processes.** 
 
-**The user is free to choose how to execute steps 3 for the sender and 1 for the recipient.**
+**C.  The user is free to choose how to execute step 3 for the sender and 1 for the recipient.**
 
 ----------------------------------------------------------------Compiling----------------------------------------------------
 
