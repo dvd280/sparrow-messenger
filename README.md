@@ -87,9 +87,10 @@ As a sender, the process will create and save a file named "EncodedTxs.txt" in t
 As a reciever, the user exports the list of transfers to/from his wallet by using the "export_transfers" command (after logging into the wallet cli), this will create a csv file named "output0.csv" in the same directory/folder as the cli wallet. The sparrow executable must be located in the same directory as the "output0.csv" and so it would be simplest to place the sparrow exeutable in the same directory as the monero-wallet-cli executable. If the user wants to avoid this, they would need to manually move the .csv to the same directory as the sparrow executable.
 
 -----------------------------------------------------------------Donate-----------------------------------------------------------
+
 My Monero donation address:
 
-88FFQrAf6y18xTq3tiKiKtFBGWm7s57Q7XSToHfSw6CdXziHq2fC2gMDcFCzrvbRxrVY42FjipBU722iprjNsh7QTThB9yT
+                  88FFQrAf6y18xTq3tiKiKtFBGWm7s57Q7XSToHfSw6CdXziHq2fC2gMDcFCzrvbRxrVY42FjipBU722iprjNsh7QTThB9yT
 
 
 
