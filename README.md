@@ -62,11 +62,13 @@ Sparrow in its current itteration helps to automate:
 -----------------------------------------------------------------Usage-------------------------------------------------------
 To send a message with sparrow, navigate to the sparrow.exe directory and use the command:
 
-                                     sparrow < action > < recipient's address > < message >
+                                     sparrow < action > < address > < message >
 
 Where:
 
-                                              < action > = "send" or "recieve"
+                                              < action >  = "send" or "recieve"
+                                              < address > = Adress to which the user wishes to send, or Adress to which the user expects to recieve a message.
+                                              < message > = The message which the user wishes to send ( only relevant when < action > = "send")
 
 
 
