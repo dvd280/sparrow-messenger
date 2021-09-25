@@ -18,23 +18,23 @@ Suppose Alice decides to send Bob a message saying:  "Hello Bob". What she needs
 
 2.  After the conversion, instead of `"Hello Bob"` she has the following series of numbers:
 
-'0.000000000072'  = (H)
+`0.000000000072`  = (H)
 
-0.000000000101  = (e)
+`0.000000000101`  = (e)
 
-0.000000000108  = (l)
+`0.000000000108`  = (l)
 
-0.000000000108  = (l)
+`0.000000000108`  = (l)
 
-0.000000000111  = (o)
+`0.000000000111`  = (o)
 
-0.000000000032  = ( )
+`0.000000000032`  = ( )
 
-0.000000000066  = (B)
+`0.000000000066`  = (B)
 
-0.000000000111  = (o)
+`0.000000000111`  = (o)
 
-0.000000000098  = (b)
+`0.000000000098`  = (b)
 
 
 3. Transmit a series of transactions with the amounts being the numbers above (This should be done serially - one transaction per block).
