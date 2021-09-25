@@ -66,7 +66,7 @@ To send a message with sparrow, navigate to the sparrow.exe directory and use th
 
 Where:
 
-< action > = "send" or "recieve"
+                                              < action > = "send" or "recieve"
 
 
 
