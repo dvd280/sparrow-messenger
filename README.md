@@ -44,7 +44,7 @@ Suppose Alice decides to send Bob a message saying:  "Hello Bob". What she needs
 
 Bob decides to check whether he got a message from Alice, What he has to do is this:
 
-1.  log into his Monero CLI wallet and export the transaction history using the built in  "export_transfers" command - which saves the transaction data in a csv format.
+1.  log into his Monero CLI wallet and export the transaction history using the built in  "export_transfers" command - which saves the transaction data in a csv format (the csv is saved in the same folder as the cli exe by default).
 
 2.  Identify which transactions signify the beginning and end of different messages.
 
