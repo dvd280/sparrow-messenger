@@ -10,7 +10,7 @@ This project relies on a basic premise: for computer systems everything is a num
 - Each of them creates a secondary Monero address, and shares it only with the other.
 
 
-##----------------------------------------------------------------------Sender-----------------------------------------------------
+## ----------------------------------------------------------------------Sender-----------------------------------------------------
 
 Suppose Alice decides to send Bob a message saying:  "Hello Bob". What she needs to do is:
 
