@@ -92,7 +92,7 @@ As a reciever, the user exports the list of transfers to/from his wallet by usin
 
 My Monero donation address:
 
-                      `88FFQrAf6y18xTq3tiKiKtFBGWm7s57Q7XSToHfSw6CdXziHq2fC2gMDcFCzrvbRxrVY42FjipBU722iprjNsh7QTThB9yT`
+                    88FFQrAf6y18xTq3tiKiKtFBGWm7s57Q7XSToHfSw6CdXziHq2fC2gMDcFCzrvbRxrVY42FjipBU722iprjNsh7QTThB9yT
 
 
 
