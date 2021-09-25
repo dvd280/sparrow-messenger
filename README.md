@@ -10,7 +10,7 @@ This project relies on a basic premise: for computer systems everything is a num
 - Each of them creates a secondary Monero address, and shares it only with the other.
 
 
-----------------------------------------------------------------------##Sender-----------------------------------------------------
+##----------------------------------------------------------------------Sender-----------------------------------------------------
 
 Suppose Alice decides to send Bob a message saying:  "Hello Bob". What she needs to do is:
 
@@ -40,7 +40,7 @@ Suppose Alice decides to send Bob a message saying:  "Hello Bob". What she needs
 3. Transmit a series of transactions with the amounts being the numbers above (This should be done serially - one transaction per block).
 
 
----------------------------------------------------------------------##Recipient---------------------------------------------------
+---------------------------------------------------------------------Recipient---------------------------------------------------
 
 Bob decides to check whether he got a message from Alice, What he has to do is this:
 
@@ -52,7 +52,7 @@ Bob decides to check whether he got a message from Alice, What he has to do is t
 
 4.  Print the decoded message in the console along with a timestamp.
 
------------------------------------------------------------------##Sparrow-messenger-------------------------------------------
+-----------------------------------------------------------------Sparrow-messenger-------------------------------------------
 
 **A.  Sparrow in its current itteration helps to automate:**
 
@@ -66,11 +66,11 @@ Bob decides to check whether he got a message from Alice, What he has to do is t
 
 **D.  The user is free to choose how to execute step 3 for the sender and 1 for the recipient.**
 
-----------------------------------------------------------------##Compiling----------------------------------------------------
+----------------------------------------------------------------Compiling----------------------------------------------------
 
 Sparrow is a very small module - less than 200 lines of just standard C++, Which makes it possible to compile on any platform by just copying main.cpp and the Helpers.h header into the same folder/directory. Compilation is possible with any C++ compiler. 
 
------------------------------------------------------------------##Usage-----------------------------------------------------------
+-----------------------------------------------------------------Usage-----------------------------------------------------------
 
 To send a message with sparrow, navigate to the sparrow.exe directory and Use the following command:
 
