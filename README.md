@@ -72,7 +72,7 @@ Sparrow is a very small module - less than 200 lines of just standard C++, Which
 
 -----------------------------------------------------------------Usage-----------------------------------------------------------
 
-To send a message with sparrow, compile it, and navigate to the sparrow.exe directory. Use the following command:
+To send a message with sparrow, navigate to the sparrow.exe directory and Use the following command:
 
                                      sparrow < action > < address > < message >
 
