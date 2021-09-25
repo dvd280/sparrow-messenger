@@ -62,7 +62,7 @@ Sparrow in its current itteration helps to automate:
 -----------------------------------------------------------------Usage-------------------------------------------------------
 To send a message with sparrow, navigate to the sparrow.exe directory and use the command:
 
-                                      **sparrow < action > < recipient's address > < message >**
+                                     sparrow < action > < recipient's address > < message >
 
 Where:
 
