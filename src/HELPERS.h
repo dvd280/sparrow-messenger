@@ -58,32 +58,3 @@ std::vector<double> encodeMessage(std::string& msg)                             
 
     return encodedMsg;
 }
-/*
-std::vector<double> sparrow::encodeMessage(std::string& msg)                                //write
-{
-    size_t len = msg.size() + 2;
-    
-    std::vector<double > encodedMsg;
-
-    
-    encodedMsg.push_back(1 / ATOMIC_INVERSE);
-    for (unsigned char character : msg)
-    {
-        encodedMsg.push_back(static_cast<double>(character) / ATOMIC_INVERSE);
-    }
-    
-    encodedMsg.push_back(1 / ATOMIC_INVERSE);
-    
-    return encodedMsg;
-}
-
-std::string sparrow::decodeMessage(std::vector<double>& msg)
-{
-    std::string decodedMsg;
-    for (double number : msg)
-    {
-        decodedMsg += static_cast<char>(number * ATOMIC_INVERSE)               ;
-    }
-    return decodedMsg;
-}
-*/
