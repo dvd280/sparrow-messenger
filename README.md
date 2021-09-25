@@ -60,7 +60,7 @@ Bob decides to check whether he got a message from Alice, What he has to do is t
 - Steps 2, 3 and 4 for the Recipient.
 
 
-**Sparrow in its current form does not interact directly with any Monero processes. **
+**Sparrow in its current form does not interact directly with any Monero processes.** 
 
 **The user is free to choose how to execute steps 3 for the sender and 1 for the recipient.**
 
