@@ -37,7 +37,7 @@ Suppose Alice decides to send Bob a message saying:  "Hello Bob". What she needs
 0.000000000098  = (b)
 
 
-3. Transmit a series of transactions with the amounts being the numbers above ( This should be done serially - one transaction per block).
+3. Transmit a series of transactions with the amounts being the numbers above (This should be done serially - one transaction per block).
 
 
 ---------------------------------------------------------------------Recipient---------------------------------------------------
