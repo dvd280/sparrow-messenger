@@ -1,6 +1,6 @@
 # sparrow-messenger
 
-This is a barebone module for enabling private communication by utilizing the Monero blockchain. Simply put, blockchains are distributed ledgers which facilitate the attribution of numeric values to specific addresses. Monero - as a privacy enabling blockchain, lets users attribute numeric values with privacy. Monero as it exists today is mostly known and used as a private digital currency.
+This is a barebone module for enabling private communication through the Monero blockchain. Simply put, blockchains are distributed ledgers which facilitate the attribution of numeric values to specific addresses. Monero - as a privacy enabling blockchain, lets users attribute numeric values with privacy. Monero as it exists today is mostly known and used as a private digital currency.
 
 This project relies on a basic premise: for computer systems everything is a numeric value - that includes character strings as well. The simplest way to explain is this:
 
