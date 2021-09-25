@@ -59,3 +59,10 @@ Sparrow in its current itteration helps to automate:
 - Steps 1 and 2 for the sender.
 - Steps 2, 3 and 4 for the Recipient.
 
+-----------------------------------------------------------------Usage-------------------------------------------------------
+To send a message with sparrow, navigate to the sparrow.exe directory and use the command:
+sparrow <action> <recipient's address> <message>
+
+Where <action> = "send" or "recieve"
+
+
