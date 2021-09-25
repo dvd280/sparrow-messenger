@@ -16,7 +16,7 @@ Suppose Alice decides to send Bob a message saying:  "Hello Bob". What she needs
 
 1.  Convert the message into a series of double percision floating point numbers which will be sent as transaction amounts to Bobs secondary sub-address.
 
-2.  After the conversion, instead of `<addr>`"Hello Bob" she has the following series of numbers:
+2.  After the conversion, instead of `"Hello Bob"` she has the following series of numbers:
 
 0.000000000072  = (H)
 
