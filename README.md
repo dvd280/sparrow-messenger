@@ -18,7 +18,7 @@ Suppose Alice decides to send Bob a message saying:  "Hello Bob". What she needs
 
 2.  After the conversion, instead of `"Hello Bob"` she has the following series of numbers:
 
-0.000000000072  = (H)
+'0.000000000072'  = (H)
 
 0.000000000101  = (e)
 
