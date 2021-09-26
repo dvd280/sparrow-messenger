@@ -14,7 +14,7 @@ This project relies on a basic premise: for computer systems everything is a num
 
 Suppose Alice decides to send Bob a message saying:  "Hello Bob". What she needs to do is:
 
-1.  Convert the message into a series of double percision floating point numbers which will be sent as transaction amounts to Bobs secondary sub-address.
+1.  Convert the message into a series of double percision floating point numbers which will later be sent as transaction amounts to Bobs secondary sub-address.
 
 2.  After the conversion, instead of `"Hello Bob"` she has the following series of numbers:
 
