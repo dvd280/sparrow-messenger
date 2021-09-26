@@ -3,9 +3,9 @@
 
 int main (int argc, char **argv) 
 {
-    std::string a = argv[1];
+    std::string action = argv[1];
 
-    if (a == "send")
+    if (action == "send")
     {
         if (argc < 4)
         {
@@ -32,7 +32,7 @@ int main (int argc, char **argv)
         std::cout << "encoded message exported successfully to: 'EncodedTxs.txt'" << std::endl;
 
     }
-    else if (a == "recieve")
+    else if (action == "recieve")
     {
         if (argc < 3)
         {
