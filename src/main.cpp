@@ -10,6 +10,7 @@ int main (int argc, char **argv)
         if (argc < 4)
         {
             invalidCommand();
+            return 1;
         }
         if (strlen(argv[2]) != 95)
         {
